@@ -8,3 +8,6 @@ GIF walkthrough:
 
 
 <img src="https://github.com/elyibarra/Tips/blob/master/Tips1.gif"></img>
+
+GIF created using <a href="http://www.cockos.com/licecap/">LiceCap</a>
+
