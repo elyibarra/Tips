@@ -5,4 +5,4 @@ The basic tip calculator took about 2 hours, and I spent an additional 2 hours o
 Required - Basic tip calculator from video walkthrough. Optional - Graphics and layout. 
 
 GIF walkthrough:
-<img src="_"></img>
+<img src="https://github.com/elyibarra/Tips/blob/master/Tips1.gif"></img>
